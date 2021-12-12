@@ -5,7 +5,7 @@ Jupyter notebooks and scripts used for the analysis presented in the paper **"Di
 </p>
 
 
-The code here depends on the [mprod_package](https://github.com/UriaMorP/mprod_package).
+The code here depends on the [mprod_package](https://github.com/UriaMorP/mprod_package). Documentation for the `mprod-package` is available at [readthedocs](https://mprod-package.readthedocs.io/en/latest/)
 
 
 When using the [mprod_package](https://github.com/UriaMorP/mprod_package)'s TCAM implementation, please cite our work as following 
